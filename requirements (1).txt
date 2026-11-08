@@ -1,0 +1,2 @@
+# Genesis currently uses Python's built-in libraries.
+# No external packages are required.
